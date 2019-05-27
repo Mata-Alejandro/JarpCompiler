@@ -1,0 +1,25 @@
+<identificador>:
+primer caracter es una letra, cualquier caracter despues son letras o numeros
+
+Declaracion de clase
+"clase <identificador= nombre>"
+
+<tipo>
+tipo de dato primitivo int, double, string , char
+
+metodo:
+<tipo> met<identificador = nombre> (<tipo><identificador = nombre>)[retornar <valor>]
+
+variables:
+<tipo> <identificador = nombre>
+
+palabra reservadas
+si(<variable> ){}
+
+imprimir:
+imp <valor>
+
+
+
+retorno:
+
